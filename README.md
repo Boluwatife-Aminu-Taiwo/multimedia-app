@@ -15,7 +15,7 @@ npm run start
 ### REACT-CHARTJS-2
 
 ```shell
-npm install rect-chartjs-2
+npm install react-chartjs-2
 ```
 
 ## Available Scripts
