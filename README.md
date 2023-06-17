@@ -6,17 +6,17 @@
 
 ### REACT
 
-    ```shell
-    npx create-react-app multimedia-app
-    cd multmedia-app
-    npm run start
-    ```
+```shell
+npx create-react-app multimedia-app
+cd multmedia-app
+npm run start
+```
 
 ### REACT-CHARTJS-2
 
-    ```shell
-    npm install rect-chartjs-2
-    ```
+```shell
+npm install rect-chartjs-2
+```
 
 ## Available Scripts
 
